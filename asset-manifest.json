@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/aditi-51patil/WaterFlow-Simulator/static/css/main.5197b301.chunk.css",
-    "main.js": "/aditi-51patil/WaterFlow-Simulator/static/js/main.001b0eb4.chunk.js",
-    "main.js.map": "/aditi-51patil/WaterFlow-Simulator/static/js/main.001b0eb4.chunk.js.map",
-    "runtime-main.js": "/aditi-51patil/WaterFlow-Simulator/static/js/runtime-main.b7dbced0.js",
-    "runtime-main.js.map": "/aditi-51patil/WaterFlow-Simulator/static/js/runtime-main.b7dbced0.js.map",
-    "static/js/2.735540dc.chunk.js": "/aditi-51patil/WaterFlow-Simulator/static/js/2.735540dc.chunk.js",
-    "static/js/2.735540dc.chunk.js.map": "/aditi-51patil/WaterFlow-Simulator/static/js/2.735540dc.chunk.js.map",
-    "static/js/3.67c24fff.chunk.js": "/aditi-51patil/WaterFlow-Simulator/static/js/3.67c24fff.chunk.js",
-    "static/js/3.67c24fff.chunk.js.map": "/aditi-51patil/WaterFlow-Simulator/static/js/3.67c24fff.chunk.js.map",
-    "index.html": "/aditi-51patil/WaterFlow-Simulator/index.html",
-    "static/css/main.5197b301.chunk.css.map": "/aditi-51patil/WaterFlow-Simulator/static/css/main.5197b301.chunk.css.map",
-    "static/js/2.735540dc.chunk.js.LICENSE.txt": "/aditi-51patil/WaterFlow-Simulator/static/js/2.735540dc.chunk.js.LICENSE.txt"
+    "main.css": "/WaterFlow-Simulator/static/css/main.5197b301.chunk.css",
+    "main.js": "/WaterFlow-Simulator/static/js/main.001b0eb4.chunk.js",
+    "main.js.map": "/WaterFlow-Simulator/static/js/main.001b0eb4.chunk.js.map",
+    "runtime-main.js": "/WaterFlow-Simulator/static/js/runtime-main.713639e5.js",
+    "runtime-main.js.map": "/WaterFlow-Simulator/static/js/runtime-main.713639e5.js.map",
+    "static/js/2.735540dc.chunk.js": "/WaterFlow-Simulator/static/js/2.735540dc.chunk.js",
+    "static/js/2.735540dc.chunk.js.map": "/WaterFlow-Simulator/static/js/2.735540dc.chunk.js.map",
+    "static/js/3.67c24fff.chunk.js": "/WaterFlow-Simulator/static/js/3.67c24fff.chunk.js",
+    "static/js/3.67c24fff.chunk.js.map": "/WaterFlow-Simulator/static/js/3.67c24fff.chunk.js.map",
+    "index.html": "/WaterFlow-Simulator/index.html",
+    "static/css/main.5197b301.chunk.css.map": "/WaterFlow-Simulator/static/css/main.5197b301.chunk.css.map",
+    "static/js/2.735540dc.chunk.js.LICENSE.txt": "/WaterFlow-Simulator/static/js/2.735540dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7dbced0.js",
+    "static/js/runtime-main.713639e5.js",
     "static/js/2.735540dc.chunk.js",
     "static/css/main.5197b301.chunk.css",
     "static/js/main.001b0eb4.chunk.js"
